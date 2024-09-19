@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://localhost:8080/ecomm/api/V1/auth/signup",
+            "request": "launch",
+            "url": "http://localhost:8080/ecomm/api/V1/auth/signup"
+        }
+    ]
+}
